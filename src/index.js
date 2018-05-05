@@ -4,6 +4,7 @@
 
 import React, { Component } from "react";
 import PropTypes from "prop-types";
+import Button from "./components/Button";
 
 import styles from "./styles.css";
 
