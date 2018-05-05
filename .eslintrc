@@ -12,8 +12,6 @@
   "rules": {
     "space-before-function-paren": 0,
     "react/jsx-boolean-value": 0,
-
-    // allow imports mixed with non-import statements at top of file
     "import/first": 1,
     "semi": "off",
     "quotes": [
