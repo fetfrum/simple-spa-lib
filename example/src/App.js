@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-import ExampleComponent from "simple-spa-lib";
+import { ExampleComponent } from "simple-spa-lib";
 import HelloWorld from "simple-spa-lib";
 import { Button } from "simple-spa-lib";
 
