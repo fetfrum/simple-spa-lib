@@ -18,7 +18,7 @@
 
     // allow imports mixed with non-import statements at top of file
     "import/first": 0,
-    "no-extra-semi": "error",
+    "no-extra-semi": "off",
     "quotes": [
       "error",
       "double",
