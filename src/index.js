@@ -8,7 +8,7 @@ import Button from "./components/Button";
 
 import styles from "./styles.css";
 
-export default class ExampleComponent extends Component {
+export class ExampleComponent extends Component {
   static propTypes = {
     text: PropTypes.string
   };
