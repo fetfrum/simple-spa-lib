@@ -19,4 +19,4 @@ export class ExampleComponent extends Component {
   }
 }
 
-export { default as HelloWorld } from "./components/Button";
+export { HelloWorld } from "./components/Button";
