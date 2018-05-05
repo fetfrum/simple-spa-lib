@@ -1,13 +1,14 @@
-import React, { Component } from 'react'
+import React, { Component } from "react";
 
-import ExampleComponent from 'simple-spa-lib'
+import ExampleComponent from "simple-spa-lib";
+import HelloWorld from "simple-spa-lib";
 
 export default class App extends Component {
-  render () {
+  render() {
     return (
       <div>
-        <ExampleComponent text='Modern React component module' />
+        <ExampleComponent text="Modern React component module" />
       </div>
-    )
+    );
   }
 }
