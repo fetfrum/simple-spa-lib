@@ -4,7 +4,7 @@
 
 import React, { Component } from "react";
 import PropTypes from "prop-types";
-import {*} from "./components/Button";
+import {} from "./components/Button";
 
 import styles from "./styles.css";
 
@@ -20,4 +20,4 @@ export class ExampleComponent extends Component {
   }
 }
 
-export class Button extends Button;
+export class Button1 extends Button;
