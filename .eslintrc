@@ -1,15 +1,10 @@
 {
   "parser": "babel-eslint",
-  "extends": [
-    "standard",
-    "standard-react"
-  ],
+  "extends": ["standard", "standard-react"],
   "env": {
     "es6": true
   },
-  "plugins": [
-    "react"
-  ],
+  "plugins": ["react"],
   "parserOptions": {
     "sourceType": "module",
     "allowImportExportEverywhere": true
@@ -22,6 +17,7 @@
     "react/jsx-boolean-value": 0,
 
     // allow imports mixed with non-import statements at top of file
-    "import/first": 0
+    "import/first": 0,
+    "no-extra-semi": 0
   }
 }
