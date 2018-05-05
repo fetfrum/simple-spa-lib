@@ -1,2 +1,2 @@
-export { default as Button } from "./components/Button";
-export { default as ExampleComponent } from "./components/ExampleComponent";
+import { Button } from "./components/Button";
+import { ExampleComponent } from "./components/ExampleComponent";
