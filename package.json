@@ -16,7 +16,6 @@
     "prepare": "npm run build",
     "predeploy": "cd example && npm install && npm run build",
     "deploy": "gh-pages -d example/build",
-    "styleguide": "npm-run-all -p watch-sass-to-css styleguidist",
     "styleguidist": "styleguidist server",
     "styleguide-build": "styleguidist build"
   },
