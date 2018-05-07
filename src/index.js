@@ -1,4 +1,4 @@
 import Button from "./components/Button";
-import ExampleComponent from "./components/ExampleComponent";
+import Section from "./components/Section";
 
 export { Button, ExampleComponent };
