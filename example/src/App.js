@@ -5,7 +5,7 @@ export default class App extends Component {
   render() {
     return (
       <div>
-        <Section>Section</Section>
+        <Section tesr>Section</Section>
         <Button />
       </div>
     );
