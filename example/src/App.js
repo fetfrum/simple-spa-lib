@@ -1,11 +1,11 @@
 import React, { Component } from "react";
-import { Button, ExampleComponent } from "simple-spa-lib";
+import { Button, Section } from "simple-spa-lib";
 
 export default class App extends Component {
   render() {
     return (
       <div>
-        <Sectinon />
+        <Section />
         <Button />
       </div>
     );
