@@ -10,6 +10,6 @@
 .section {
   width: 100%;
 }
-.section--fullscreen {
+.fullscreen {
   min-height: 100vh;
 }
