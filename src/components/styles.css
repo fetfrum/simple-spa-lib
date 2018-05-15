@@ -10,7 +10,7 @@
 .section {
   width: 100%;
 }
-.fullscreen {
+.fs {
   min-height: 100vh;
 }
 .row {
