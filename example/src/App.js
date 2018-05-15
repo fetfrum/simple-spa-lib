@@ -5,7 +5,9 @@ export default class App extends Component {
   render() {
     return (
       <div>
-        <Section fs>Section</Section>
+        <Section fs fluid>
+          Section
+        </Section>
         <Button />
       </div>
     );
