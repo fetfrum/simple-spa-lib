@@ -5,9 +5,7 @@ export default class App extends Component {
   render() {
     return (
       <div>
-        <Section test fullScreen>
-          Section
-        </Section>
+        <Section fs>Section</Section>
         <Button />
       </div>
     );
